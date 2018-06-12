@@ -530,7 +530,7 @@ textarea::-ms-input-placeholder
     color:#ff2b4a;
 }
 .features-bg.design{
-    background:#10c6fc;
+    background:#28738a;
     transition:.3s ease-in-out;
     -webkit-transition:.3s ease-in-out;
     -moz-transition:.3s ease-in-out;
@@ -560,7 +560,7 @@ textarea::-ms-input-placeholder
     -o-transition:.3s ease-in-out;
 }
 .features-bg.testing:hover{
-    background:#64cbc0;
+    background:#235023;
 }
 .features-bg.launch{
     background:#0e3142;
